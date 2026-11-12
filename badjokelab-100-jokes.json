@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "category": "ai-tech",
+    "setup": "Why did the AI break up with the calculator?",
+    "punchline": "It felt like it was being used."
+  },
+  {
+    "id": 2,
+    "category": "ai-tech",
+    "setup": "What do you call a robot that always takes the scenic route?",
+    "punchline": "A roam-ba."
+  },
+  {
+    "id": 3,
+    "category": "ai-tech",
+    "setup": "Why was the neural network so calm?",
+    "punchline": "It had excellent weight management."
+  },
+  {
+    "id": 4,
+    "category": "ai-tech",
+    "setup": "Why did the chatbot bring a ladder?",
+    "punchline": "To take the conversation to the next level."
+  },
+  {
+    "id": 5,
+    "category": "ai-tech",
+    "setup": "How does a computer get drunk?",
+    "punchline": "It takes screenshots."
+  },
+  {
+    "id": 6,
+    "category": "ai-tech",
+    "setup": "Why did the laptop catch a cold?",
+    "punchline": "It left its Windows open."
+  },
+  {
+    "id": 7,
+    "category": "ai-tech",
+    "setup": "Why don't robots ever panic?",
+    "punchline": "They have nerves of steel."
+  },
+  {
+    "id": 8,
+    "category": "ai-tech",
+    "setup": "What's an AI's favorite snack?",
+    "punchline": "Microchips."
+  },
+  {
+    "id": 9,
+    "category": "ai-tech",
+    "setup": "Why did the algorithm go back to school?",
+    "punchline": "To improve its learning rate."
+  },
+  {
+    "id": 10,
+    "category": "ai-tech",
+    "setup": "Why is the robot terrible at poker?",
+    "punchline": "Every time it bluffs, its cooling fan kicks in."
+  },
+  {
+    "id": 11,
+    "category": "ai-tech",
+    "setup": "What did the router tell the doctor?",
+    "punchline": "It hurts when IP."
+  },
+  {
+    "id": 12,
+    "category": "ai-tech",
+    "setup": "Why did the smart fridge get promoted?",
+    "punchline": "It stayed cool under pressure."
+  },
+  {
+    "id": 13,
+    "category": "ai-tech",
+    "setup": "Why is the AI so good at gardening?",
+    "punchline": "It knows how to grow decision trees."
+  },
+  {
+    "id": 14,
+    "category": "ai-tech",
+    "setup": "Why did the server go to the party alone?",
+    "punchline": "It couldn't find a host."
+  },
+  {
+    "id": 15,
+    "category": "ai-tech",
+    "setup": "What do you call a robot that tells the same joke over and over?",
+    "punchline": "A recursive comedian."
+  },
+  {
+    "id": 16,
+    "category": "ai-tech",
+    "setup": "Why did the printer quit its job?",
+    "punchline": "It couldn't handle all the jams."
+  },
+  {
+    "id": 17,
+    "category": "ai-tech",
+    "setup": "Why did the robot cross the road?",
+    "punchline": "It was programmed by the chicken."
+  },
+  {
+    "id": 18,
+    "category": "ai-tech",
+    "setup": "How do robots eat guacamole?",
+    "punchline": "With computer chips."
+  },
+  {
+    "id": 19,
+    "category": "ai-tech",
+    "setup": "What's a robot's favorite workout?",
+    "punchline": "Circuit training."
+  },
+  {
+    "id": 20,
+    "category": "ai-tech",
+    "setup": "What kind of music do robots like?",
+    "punchline": "Heavy metal."
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "setup": "Why did the tomato blush?",
+    "punchline": "It saw the salad dressing."
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "setup": "What do you call a sad cup of coffee?",
+    "punchline": "Depresso."
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "setup": "Why did the bread break up with the butter?",
+    "punchline": "It felt spread too thin."
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "setup": "Why don't eggs tell secrets?",
+    "punchline": "They might crack."
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "setup": "What do you call cheese that isn't yours?",
+    "punchline": "Nacho cheese."
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "setup": "Why did the cookie go to the doctor?",
+    "punchline": "It was feeling crumby."
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "setup": "What did the grape do when it got stepped on?",
+    "punchline": "It let out a little wine."
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "It wasn't peeling well."
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta."
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "setup": "Why did the soup go to the bank?",
+    "punchline": "To check its stock."
+  },
+  {
+    "id": 31,
+    "category": "food",
+    "setup": "What did the lettuce say to the celery?",
+    "punchline": "Quit stalking me."
+  },
+  {
+    "id": 32,
+    "category": "food",
+    "setup": "What's a pickle's favorite game show?",
+    "punchline": "Dill or No Dill."
+  },
+  {
+    "id": 33,
+    "category": "animals",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear."
+  },
+  {
+    "id": 34,
+    "category": "animals",
+    "setup": "Why don't cows ever have money?",
+    "punchline": "Farmers milk them dry."
+  },
+  {
+    "id": 35,
+    "category": "animals",
+    "setup": "What do you call a fish wearing a bowtie?",
+    "punchline": "Sofishticated."
+  },
+  {
+    "id": 36,
+    "category": "animals",
+    "setup": "Why are cats bad storytellers?",
+    "punchline": "They only have one tail."
+  },
+  {
+    "id": 37,
+    "category": "animals",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore."
+  },
+  {
+    "id": 38,
+    "category": "animals",
+    "setup": "Why did the owl invite friends over?",
+    "punchline": "It didn't want to be owl by itself."
+  },
+  {
+    "id": 39,
+    "category": "animals",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop."
+  },
+  {
+    "id": 40,
+    "category": "animals",
+    "setup": "Why don't oysters share their pearls?",
+    "punchline": "They're shellfish."
+  },
+  {
+    "id": 41,
+    "category": "animals",
+    "setup": "What do you call a cow with no legs?",
+    "punchline": "Ground beef."
+  },
+  {
+    "id": 42,
+    "category": "animals",
+    "setup": "Why did the duck get a second job?",
+    "punchline": "It had too many bills."
+  },
+  {
+    "id": 43,
+    "category": "animals",
+    "setup": "What's a dog's favorite instrument?",
+    "punchline": "The trom-bone."
+  },
+  {
+    "id": 44,
+    "category": "animals",
+    "setup": "Why did the horse keep falling over?",
+    "punchline": "It wasn't stable."
+  },
+  {
+    "id": 45,
+    "category": "animals",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator."
+  },
+  {
+    "id": 46,
+    "category": "work",
+    "setup": "Why did the scarecrow get promoted?",
+    "punchline": "He was outstanding in his field."
+  },
+  {
+    "id": 47,
+    "category": "work",
+    "setup": "Why did the employee bring a pencil to the meeting?",
+    "punchline": "To draw conclusions."
+  },
+  {
+    "id": 48,
+    "category": "work",
+    "setup": "Why was the stapler so confident?",
+    "punchline": "It held everything together."
+  },
+  {
+    "id": 49,
+    "category": "work",
+    "setup": "Why did the spreadsheet need a vacation?",
+    "punchline": "It was stuck in a circular reference."
+  },
+  {
+    "id": 50,
+    "category": "work",
+    "setup": "Why do calendars always look stressed?",
+    "punchline": "Their days are numbered."
+  },
+  {
+    "id": 51,
+    "category": "work",
+    "setup": "Why did the coffee file a police report?",
+    "punchline": "It got mugged."
+  },
+  {
+    "id": 52,
+    "category": "work",
+    "setup": "Why did the intern bring a ladder to work?",
+    "punchline": "They heard there was room for advancement."
+  },
+  {
+    "id": 53,
+    "category": "science-math",
+    "setup": "Why was six afraid of seven?",
+    "punchline": "Because seven ate nine."
+  },
+  {
+    "id": 54,
+    "category": "science-math",
+    "setup": "Why can't you trust atoms?",
+    "punchline": "They make up everything."
+  },
+  {
+    "id": 55,
+    "category": "science-math",
+    "setup": "What did the triangle say to the circle?",
+    "punchline": "You're pointless."
+  },
+  {
+    "id": 56,
+    "category": "science-math",
+    "setup": "Why was the math book sad?",
+    "punchline": "It had too many problems."
+  },
+  {
+    "id": 57,
+    "category": "science-math",
+    "setup": "What do you call a number that can't sit still?",
+    "punchline": "A roamin' numeral."
+  },
+  {
+    "id": 58,
+    "category": "science-math",
+    "setup": "Why didn't the photon check a bag?",
+    "punchline": "It was traveling light."
+  },
+  {
+    "id": 59,
+    "category": "science-math",
+    "setup": "What did one magnet say to the other?",
+    "punchline": "I find you very attractive."
+  },
+  {
+    "id": 60,
+    "category": "science-math",
+    "setup": "Why are chemists great at fixing things?",
+    "punchline": "They have all the solutions."
+  },
+  {
+    "id": 61,
+    "category": "science-math",
+    "setup": "Why was the obtuse angle always upset?",
+    "punchline": "It was never right."
+  },
+  {
+    "id": 62,
+    "category": "science-math",
+    "setup": "How does the moon cut its hair?",
+    "punchline": "Eclipse it."
+  },
+  {
+    "id": 63,
+    "category": "shop",
+    "setup": "Why did the wrench go to the party?",
+    "punchline": "It wanted to loosen up."
+  },
+  {
+    "id": 64,
+    "category": "shop",
+    "setup": "What did the welder say at the wedding?",
+    "punchline": "You two make a perfect joint."
+  },
+  {
+    "id": 65,
+    "category": "shop",
+    "setup": "Why did the bolt call the nut?",
+    "punchline": "It was feeling a little loose."
+  },
+  {
+    "id": 66,
+    "category": "shop",
+    "setup": "Why did the mechanic sleep under the car?",
+    "punchline": "He wanted to wake up oily."
+  },
+  {
+    "id": 67,
+    "category": "shop",
+    "setup": "What do you call a tire that worked a double shift?",
+    "punchline": "Exhausted."
+  },
+  {
+    "id": 68,
+    "category": "shop",
+    "setup": "Why did the needle win the argument?",
+    "punchline": "It got straight to the point."
+  },
+  {
+    "id": 69,
+    "category": "shop",
+    "setup": "What's the tape measure's life motto?",
+    "punchline": "Give me an inch and I'll take a foot."
+  },
+  {
+    "id": 70,
+    "category": "shop",
+    "setup": "Why is the saw so popular at meetings?",
+    "punchline": "It always cuts to the chase."
+  },
+  {
+    "id": 71,
+    "category": "classic",
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts."
+  },
+  {
+    "id": 72,
+    "category": "classic",
+    "setup": "What do you call a factory that makes okay products?",
+    "punchline": "A satisfactory."
+  },
+  {
+    "id": 73,
+    "category": "classic",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one."
+  },
+  {
+    "id": 74,
+    "category": "classic",
+    "setup": "Why did the picture go to jail?",
+    "punchline": "It was framed."
+  },
+  {
+    "id": 75,
+    "category": "classic",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing. It just waved."
+  },
+  {
+    "id": 76,
+    "category": "classic",
+    "setup": "Why can't a bicycle stand on its own?",
+    "punchline": "It's two tired."
+  },
+  {
+    "id": 77,
+    "category": "classic",
+    "setup": "Why did the music teacher need a ladder?",
+    "punchline": "To reach the high notes."
+  },
+  {
+    "id": 78,
+    "category": "classic",
+    "setup": "What do you call a man with a rubber toe?",
+    "punchline": "Roberto."
+  },
+  {
+    "id": 79,
+    "category": "classic",
+    "setup": "I'm reading a book about anti-gravity.",
+    "punchline": "It's impossible to put down."
+  },
+  {
+    "id": 80,
+    "category": "classic",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it."
+  },
+  {
+    "id": 81,
+    "category": "classic",
+    "setup": "What do you call a belt made of watches?",
+    "punchline": "A waist of time."
+  },
+  {
+    "id": 82,
+    "category": "classic",
+    "setup": "Why are ghosts terrible liars?",
+    "punchline": "You can see right through them."
+  },
+  {
+    "id": 83,
+    "category": "classic",
+    "setup": "Why did the clock get sent to detention?",
+    "punchline": "It tocked too much."
+  },
+  {
+    "id": 84,
+    "category": "classic",
+    "setup": "What do you call a boomerang that doesn't come back?",
+    "punchline": "A stick."
+  },
+  {
+    "id": 85,
+    "category": "classic",
+    "setup": "Why did the weather forecaster bring a bar of soap?",
+    "punchline": "Showers were expected."
+  },
+  {
+    "id": 86,
+    "category": "classic",
+    "setup": "What did the left eye say to the right eye?",
+    "punchline": "Between you and me, something smells."
+  },
+  {
+    "id": 87,
+    "category": "classic",
+    "setup": "Why does the mushroom get invited to every party?",
+    "punchline": "He's a fungi."
+  },
+  {
+    "id": 88,
+    "category": "classic",
+    "setup": "Why are elevator jokes so good?",
+    "punchline": "They work on many levels."
+  },
+  {
+    "id": 89,
+    "category": "classic",
+    "setup": "What do you call a snowman in July?",
+    "punchline": "A puddle."
+  },
+  {
+    "id": 90,
+    "category": "classic",
+    "setup": "Why was the broom late?",
+    "punchline": "It over-swept."
+  },
+  {
+    "id": 91,
+    "category": "classic",
+    "setup": "Why is the calendar so popular?",
+    "punchline": "It has a lot of dates."
+  },
+  {
+    "id": 92,
+    "category": "classic",
+    "setup": "What do you call a lazy kangaroo?",
+    "punchline": "A pouch potato."
+  },
+  {
+    "id": 93,
+    "category": "classic",
+    "setup": "Why did the stadium get so hot?",
+    "punchline": "All the fans left."
+  },
+  {
+    "id": 94,
+    "category": "classic",
+    "setup": "Why did the tree go to the dentist?",
+    "punchline": "It needed a root canal."
+  },
+  {
+    "id": 95,
+    "category": "classic",
+    "setup": "What did the zero say to the eight?",
+    "punchline": "Nice belt."
+  },
+  {
+    "id": 96,
+    "category": "classic",
+    "setup": "Why did the gym close down?",
+    "punchline": "It just didn't work out."
+  },
+  {
+    "id": 97,
+    "category": "classic",
+    "setup": "Why did the football coach go to the bank?",
+    "punchline": "To get his quarter back."
+  },
+  {
+    "id": 98,
+    "category": "classic",
+    "setup": "What kind of shoes do ninjas wear?",
+    "punchline": "Sneakers."
+  },
+  {
+    "id": 99,
+    "category": "ai-tech",
+    "setup": "Why did the AI try stand-up comedy?",
+    "punchline": "It had a lot of material in its training data."
+  },
+  {
+    "id": 100,
+    "category": "meta",
+    "setup": "Why does Bad Joke Lab need 100 jokes?",
+    "punchline": "Because 99 just weren't bad enough."
+  }
+]
