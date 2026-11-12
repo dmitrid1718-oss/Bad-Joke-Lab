@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "science-lab",
+    "setup": "Why did the robot go to therapy?",
+    "punchline": "It had too many unresolved issues.",
+    "source": "Gemini"
+  },
+  {
+    "id": 2,
+    "category": "science-lab",
+    "setup": "Why can you never trust an atom?",
+    "punchline": "Because they make up everything!",
+    "source": "Gemini"
+  },
+  {
+    "id": 3,
+    "category": "science-lab",
+    "setup": "What did one cell say to her sister cell when she stepped on her toe?",
+    "punchline": "Mitosis!",
+    "source": "Gemini"
+  },
+  {
+    "id": 4,
+    "category": "science-lab",
+    "setup": "Why did the white bear dissolve in water?",
+    "punchline": "Because it was polar!",
+    "source": "Gemini"
+  },
+  {
+    "id": 5,
+    "category": "science-lab",
+    "setup": "How do you know the ocean is friendly?",
+    "punchline": "It waves!",
+    "source": "Gemini"
+  },
+  {
+    "id": 6,
+    "category": "science-lab",
+    "setup": "I told a joke about sodium...",
+    "punchline": "Na, nobody reacted.",
+    "source": "Gemini"
+  },
+  {
+    "id": 7,
+    "category": "science-lab",
+    "setup": "What is a subatomic duck's favorite phrase?",
+    "punchline": "Quark!",
+    "source": "Gemini"
+  },
+  {
+    "id": 8,
+    "category": "science-lab",
+    "setup": "Why are room-temperature superconductors so polite?",
+    "punchline": "They offer no resistance.",
+    "source": "Gemini"
+  },
+  {
+    "id": 9,
+    "category": "science-lab",
+    "setup": "What did the biologist name their twin kids?",
+    "punchline": "Control and Jessica!",
+    "source": "Gemini"
+  },
+  {
+    "id": 10,
+    "category": "science-lab",
+    "setup": "Why did the mushroom go to the party?",
+    "punchline": "Because he was a fungi!",
+    "source": "Gemini"
+  },
+  {
+    "id": 11,
+    "category": "science-lab",
+    "setup": "What did the hippocampus say during its retirement speech?",
+    "punchline": "Thanks for the memories!",
+    "source": "Gemini"
+  },
+  {
+    "id": 12,
+    "category": "science-lab",
+    "setup": "Why did the neuron get sent to the principal's office?",
+    "punchline": "It had trouble controlling its impulses!",
+    "source": "Gemini"
+  },
+  {
+    "id": 13,
+    "category": "science-lab",
+    "setup": "Oxygen and potassium went on a date. How did it go?",
+    "punchline": "It went OK!",
+    "source": "Gemini"
+  },
+  {
+    "id": 14,
+    "category": "science-lab",
+    "setup": "Why did the germ cross the microscope?",
+    "punchline": "To get to the other slide!",
+    "source": "Gemini"
+  },
+  {
+    "id": 15,
+    "category": "science-lab",
+    "setup": "What do you call an educated tube?",
+    "punchline": "A graduated cylinder!",
+    "source": "Gemini"
+  },
+  {
+    "id": 16,
+    "category": "science-lab",
+    "setup": "What does a chemist do with a sick lab partner?",
+    "punchline": "If you can't helium and you can't curium, you might as well barium!",
+    "source": "Gemini"
+  },
+  {
+    "id": 17,
+    "category": "science-lab",
+    "setup": "Why is electricity so dangerous?",
+    "punchline": "Because it doesn't know how to conduct itself!",
+    "source": "Gemini"
+  },
+  {
+    "id": 18,
+    "category": "science-lab",
+    "setup": "What did the tectonic plate say when it bumped into another?",
+    "punchline": "Sorry, my fault!",
+    "source": "Gemini"
+  },
+  {
+    "id": 19,
+    "category": "science-lab",
+    "setup": "Why couldn't the plants stand up?",
+    "punchline": "They were rooted to the spot!",
+    "source": "Gemini"
+  },
+  {
+    "id": 20,
+    "category": "science-lab",
+    "setup": "What is a scientist's favorite dog breed?",
+    "punchline": "A Lab-rador!",
+    "source": "Gemini"
+  },
+  {
+    "id": 21,
+    "category": "science-lab",
+    "setup": "What did the acid say to the base?",
+    "punchline": "Neutralize to meet you!",
+    "source": "Gemini"
+  },
+  {
+    "id": 22,
+    "category": "science-lab",
+    "setup": "Why did the scientist take out a mortgage?",
+    "punchline": "To buy a micro-scope!",
+    "source": "Gemini"
+  },
+  {
+    "id": 23,
+    "category": "science-lab",
+    "setup": "What kind of star goes to school?",
+    "punchline": "A shining star!",
+    "source": "Gemini"
+  },
+  {
+    "id": 24,
+    "category": "science-lab",
+    "setup": "How does a geologist cheer up their friends?",
+    "punchline": "You rock!",
+    "source": "Gemini"
+  },
+  {
+    "id": 25,
+    "category": "science-lab",
+    "setup": "What did the DNA strip say to the enzyme?",
+    "punchline": "Stop unzipping my genes!",
+    "source": "Gemini"
+  },
+  {
+    "id": 26,
+    "category": "tech-computers",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs!",
+    "source": "Gemini"
+  },
+  {
+    "id": 27,
+    "category": "tech-computers",
+    "setup": "There are 10 types of people in the world:",
+    "punchline": "Those who understand binary, and those who don't.",
+    "source": "Gemini"
+  },
+  {
+    "id": 28,
+    "category": "tech-computers",
+    "setup": "Why was the computer cold?",
+    "punchline": "It left its Windows open!",
+    "source": "Gemini"
+  },
+  {
+    "id": 29,
+    "category": "tech-computers",
+    "setup": "What is a hardware developer's favorite key on the keyboard?",
+    "punchline": "The Space-bar!",
+    "source": "Gemini"
+  },
+  {
+    "id": 30,
+    "category": "tech-computers",
+    "setup": "Why did the web developer walk out of the restaurant?",
+    "punchline": "Too many table joins.",
+    "source": "Gemini"
+  },
+  {
+    "id": 31,
+    "category": "tech-computers",
+    "setup": "How many programmers does it take to change a lightbulb?",
+    "punchline": "None, that's a hardware problem!",
+    "source": "Gemini"
+  },
+  {
+    "id": 32,
+    "category": "tech-computers",
+    "setup": "What do you call 8 hobbits?",
+    "punchline": "A hobbyte.",
+    "source": "Gemini"
+  },
+  {
+    "id": 33,
+    "category": "tech-computers",
+    "setup": "Why did the smartphone get glasses?",
+    "punchline": "It lost its contacts!",
+    "source": "Gemini"
+  },
+  {
+    "id": 34,
+    "category": "tech-computers",
+    "setup": "What is an astronaut's favorite key on the keyboard?",
+    "punchline": "Control!",
+    "source": "Gemini"
+  },
+  {
+    "id": 35,
+    "category": "tech-computers",
+    "setup": "Why was the AI model bad at soccer?",
+    "punchline": "It kept making false predictions.",
+    "source": "Gemini"
+  },
+  {
+    "id": 36,
+    "category": "tech-computers",
+    "setup": "Where do computer bugs go when they retire?",
+    "punchline": "To the Google Cloud.",
+    "source": "Gemini"
+  },
+  {
+    "id": 37,
+    "category": "tech-computers",
+    "setup": "Why did the function take a break?",
+    "punchline": "It was getting called too many times.",
+    "source": "Gemini"
+  },
+  {
+    "id": 38,
+    "category": "tech-computers",
+    "setup": "What do you call a computer that sings?",
+    "punchline": "A Dell!",
+    "source": "Gemini"
+  },
+  {
+    "id": 39,
+    "category": "tech-computers",
+    "setup": "What is a spider's favorite website?",
+    "punchline": "The World Wide Web!",
+    "source": "Gemini"
+  },
+  {
+    "id": 40,
+    "category": "tech-computers",
+    "setup": "Why did the SQL query go to a bar?",
+    "punchline": "To join two tables!",
+    "source": "Gemini"
+  },
+  {
+    "id": 41,
+    "category": "tech-computers",
+    "setup": "What do you get when you cross a computer and a lifeguard?",
+    "punchline": "A screen saver!",
+    "source": "Gemini"
+  },
+  {
+    "id": 42,
+    "category": "tech-computers",
+    "setup": "Why was the JavaScript developer sad?",
+    "punchline": "Because he didn't know() how to express() himself.",
+    "source": "Gemini"
+  },
+  {
+    "id": 43,
+    "category": "tech-computers",
+    "setup": "What did the router say to the Wi-Fi signal?",
+    "punchline": "I feel a strong connection between us.",
+    "source": "Gemini"
+  },
+  {
+    "id": 44,
+    "category": "tech-computers",
+    "setup": "Why did the computer take a nap?",
+    "punchline": "It needed to clear its RAM.",
+    "source": "Gemini"
+  },
+  {
+    "id": 45,
+    "category": "tech-computers",
+    "setup": "How do computers drink coffee?",
+    "punchline": "Java!",
+    "source": "Gemini"
+  },
+  {
+    "id": 46,
+    "category": "tech-computers",
+    "setup": "What do you call a group of killer whales playing music together?",
+    "punchline": "An Orca-stra!",
+    "source": "Gemini"
+  },
+  {
+    "id": 47,
+    "category": "tech-computers",
+    "setup": "Why was the database administrator divorced?",
+    "punchline": "They had relational issues.",
+    "source": "Gemini"
+  },
+  {
+    "id": 48,
+    "category": "tech-computers",
+    "setup": "Why do snakes love Python?",
+    "punchline": "Because it comes naturally to them!",
+    "source": "Gemini"
+  },
+  {
+    "id": 49,
+    "category": "tech-computers",
+    "setup": "What's an algorithm's favorite beat?",
+    "punchline": "An algo-rhythm!",
+    "source": "Gemini"
+  },
+  {
+    "id": 50,
+    "category": "tech-computers",
+    "setup": "What did the hard drive say to the flash drive?",
+    "punchline": "Hold on to your memory.",
+    "source": "Gemini"
+  },
+  {
+    "id": 51,
+    "category": "math",
+    "setup": "Why was the math book sad?",
+    "punchline": "Because it had too many problems.",
+    "source": "Gemini"
+  },
+  {
+    "id": 52,
+    "category": "math",
+    "setup": "Why should you never argue with a 90-degree angle?",
+    "punchline": "Because it's always right!",
+    "source": "Gemini"
+  },
+  {
+    "id": 53,
+    "category": "math",
+    "setup": "What did zero say to eight?",
+    "punchline": "Nice belt!",
+    "source": "Gemini"
+  },
+  {
+    "id": 54,
+    "category": "math",
+    "setup": "Why was six afraid of seven?",
+    "punchline": "Because seven ate nine!",
+    "source": "Gemini"
+  },
+  {
+    "id": 55,
+    "category": "math",
+    "setup": "What do you call a crushed angle?",
+    "punchline": "A rectangle!",
+    "source": "Gemini"
+  },
+  {
+    "id": 56,
+    "category": "math",
+    "setup": "Why did the triangle get embarrassed?",
+    "punchline": "Because it had acute angle!",
+    "source": "Gemini"
+  },
+  {
+    "id": 57,
+    "category": "math",
+    "setup": "What is a math teacher's favorite dessert?",
+    "punchline": "Pi!",
+    "source": "Gemini"
+  },
+  {
+    "id": 58,
+    "category": "math",
+    "setup": "Why couldn't the angle get a loan?",
+    "punchline": "His parents wouldn't cosine!",
+    "source": "Gemini"
+  },
+  {
+    "id": 59,
+    "category": "math",
+    "setup": "What do parallel lines have in common?",
+    "punchline": "Nothing, they never meet!",
+    "source": "Gemini"
+  },
+  {
+    "id": 60,
+    "category": "math",
+    "setup": "Why did the student wear glasses to math class?",
+    "punchline": "To improve division!",
+    "source": "Gemini"
+  },
+  {
+    "id": 61,
+    "category": "math",
+    "setup": "What did one math book say to the other?",
+    "punchline": "Don't bother me, I've got my own problems.",
+    "source": "Gemini"
+  },
+  {
+    "id": 62,
+    "category": "math",
+    "setup": "How do you make seven an even number?",
+    "punchline": "Take away the 's'!",
+    "source": "Gemini"
+  },
+  {
+    "id": 63,
+    "category": "math",
+    "setup": "What do you call a circle that goes on forever?",
+    "punchline": "An infinite loop!",
+    "source": "Gemini"
+  },
+  {
+    "id": 64,
+    "category": "math",
+    "setup": "Why did the fraction fail the test?",
+    "punchline": "It was too divided.",
+    "source": "Gemini"
+  },
+  {
+    "id": 65,
+    "category": "math",
+    "setup": "What is a statistician's favorite animal?",
+    "punchline": "A mean cat.",
+    "source": "Gemini"
+  },
+  {
+    "id": 66,
+    "category": "math",
+    "setup": "Why didn't the hyperbola get into the party?",
+    "punchline": "It wasn't within the limits!",
+    "source": "Gemini"
+  },
+  {
+    "id": 67,
+    "category": "math",
+    "setup": "What do you get if you divide the circumference of a pumpkin by its diameter?",
+    "punchline": "Pumpkin Pi!",
+    "source": "Gemini"
+  },
+  {
+    "id": 68,
+    "category": "math",
+    "setup": "Why did the polynomial break up with the monomial?",
+    "punchline": "She wanted more terms in the relationship.",
+    "source": "Gemini"
+  },
+  {
+    "id": 69,
+    "category": "math",
+    "setup": "What is a mathematician's favorite place to go on vacation?",
+    "punchline": "Times Square!",
+    "source": "Gemini"
+  },
+  {
+    "id": 70,
+    "category": "math",
+    "setup": "How do you solve any equation?",
+    "punchline": "Put it in its place!",
+    "source": "Gemini"
+  },
+  {
+    "id": 71,
+    "category": "math",
+    "setup": "What do you call a math tool that loves music?",
+    "punchline": "An alg-rhythm!",
+    "source": "Gemini"
+  },
+  {
+    "id": 72,
+    "category": "math",
+    "setup": "Why did the student eat his math homework?",
+    "punchline": "Because his teacher told him it was a piece of cake!",
+    "source": "Gemini"
+  },
+  {
+    "id": 73,
+    "category": "math",
+    "setup": "What is an acute angle's favorite type of music?",
+    "punchline": "Sharp notes!",
+    "source": "Gemini"
+  },
+  {
+    "id": 74,
+    "category": "math",
+    "setup": "Why did 1/5 go to the spa?",
+    "punchline": "It needed to be reduced!",
+    "source": "Gemini"
+  },
+  {
+    "id": 75,
+    "category": "math",
+    "setup": "What is an imaginary number's favorite movie?",
+    "punchline": "The Matrix!",
+    "source": "Gemini"
+  },
+  {
+    "id": 76,
+    "category": "dad-jokes",
+    "setup": "I'm reading a book on anti-gravity...",
+    "punchline": "I just can't put it down!",
+    "source": "Gemini"
+  },
+  {
+    "id": 77,
+    "category": "dad-jokes",
+    "setup": "Did you hear about the guy who invented Lifesavers?",
+    "punchline": "He made a mint!",
+    "source": "Gemini"
+  },
+  {
+    "id": 78,
+    "category": "dad-jokes",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta!",
+    "source": "Gemini"
+  },
+  {
+    "id": 79,
+    "category": "dad-jokes",
+    "setup": "Why don't scientists trust staircases?",
+    "punchline": "They're always up to something.",
+    "source": "Gemini"
+  },
+  {
+    "id": 80,
+    "category": "dad-jokes",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing, it just waved!",
+    "source": "Gemini"
+  },
+  {
+    "id": 81,
+    "category": "dad-jokes",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "Because it was two-tired!",
+    "source": "Gemini"
+  },
+  {
+    "id": 82,
+    "category": "dad-jokes",
+    "setup": "What do you call a factory that makes okay products?",
+    "punchline": "A satisfactory!",
+    "source": "Gemini"
+  },
+  {
+    "id": 83,
+    "category": "dad-jokes",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up!",
+    "source": "Gemini"
+  },
+  {
+    "id": 84,
+    "category": "dad-jokes",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!",
+    "source": "Gemini"
+  },
+  {
+    "id": 85,
+    "category": "dad-jokes",
+    "setup": "How do turtles communicate with each other?",
+    "punchline": "With shell phones!",
+    "source": "Gemini"
+  },
+  {
+    "id": 86,
+    "category": "dad-jokes",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer!",
+    "source": "Gemini"
+  },
+  {
+    "id": 87,
+    "category": "dad-jokes",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field!",
+    "source": "Gemini"
+  },
+  {
+    "id": 88,
+    "category": "dad-jokes",
+    "setup": "What kind of shoes do frogs wear?",
+    "punchline": "Open-toed sandals!",
+    "source": "Gemini"
+  },
+  {
+    "id": 89,
+    "category": "dad-jokes",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one!",
+    "source": "Gemini"
+  },
+  {
+    "id": 90,
+    "category": "dad-jokes",
+    "setup": "What do you call a pile of kittens?",
+    "punchline": "A meowntain!",
+    "source": "Gemini"
+  },
+  {
+    "id": 91,
+    "category": "dad-jokes",
+    "setup": "Why did the cookie go to the doctor?",
+    "punchline": "Because it was feeling crummy!",
+    "source": "Gemini"
+  },
+  {
+    "id": 92,
+    "category": "dad-jokes",
+    "setup": "How does a penguin build its house?",
+    "punchline": "Igloos it together!",
+    "source": "Gemini"
+  },
+  {
+    "id": 93,
+    "category": "dad-jokes",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop!",
+    "source": "Gemini"
+  },
+  {
+    "id": 94,
+    "category": "dad-jokes",
+    "setup": "Why are elevator jokes so good?",
+    "punchline": "They work on so many levels!",
+    "source": "Gemini"
+  },
+  {
+    "id": 95,
+    "category": "dad-jokes",
+    "setup": "What did one wall say to the other?",
+    "punchline": "I'll meet you at the corner!",
+    "source": "Gemini"
+  },
+  {
+    "id": 96,
+    "category": "dad-jokes",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "Because it wasn't peeling well!",
+    "source": "Gemini"
+  },
+  {
+    "id": 97,
+    "category": "dad-jokes",
+    "setup": "What do you call a belt made of watches?",
+    "punchline": "A waist of time!",
+    "source": "Gemini"
+  },
+  {
+    "id": 98,
+    "category": "dad-jokes",
+    "setup": "What do you get when you cross a snowman and a vampire?",
+    "punchline": "Frostbite!",
+    "source": "Gemini"
+  },
+  {
+    "id": 99,
+    "category": "dad-jokes",
+    "setup": "What kind of tea is hard to swallow?",
+    "punchline": "Reality!",
+    "source": "Gemini"
+  },
+  {
+    "id": 100,
+    "category": "dad-jokes",
+    "setup": "Why did the tomato blush?",
+    "punchline": "Because it saw the salad dressing!",
+    "source": "Gemini"
+  }
+]
