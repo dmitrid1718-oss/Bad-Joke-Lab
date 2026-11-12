@@ -1,32 +1,151 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#111515"><title>Bad Joke Lab — Institute for Experimental Humor</title><meta name="description" content="Artificial intelligence makes the jokes. Humans decide if they're funny.">
 <style>
 :root{color-scheme:dark;--bg:#101515;--panel:#191f20;--line:#384040;--ink:#eeeae0;--muted:#a3ada9;--amber:#ffbd70;--green:#c8d88c;font-family:Arial,Helvetica,sans-serif}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink)}.wrap{max-width:940px;margin:auto;padding:0 28px}header{display:flex;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line);padding:27px 0;font:11px 'Courier New',monospace;letter-spacing:1px;color:var(--muted)}.lamp{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--green);box-shadow:0 0 14px var(--green);margin-right:9px}.hero{padding:60px 0 42px}.eyebrow,.micro{font:11px/1.6 'Courier New',monospace;letter-spacing:1.6px;color:var(--amber)}h1{font-size:clamp(56px,10vw,112px);font-weight:600;letter-spacing:-5px;line-height:.92;margin:16px 0}.hero p{margin:22px 0 0;font-size:clamp(17px,2.3vw,24px);color:var(--muted)}.panel{border-top:2px solid var(--amber);background:var(--panel);padding:34px 36px 28px}.panel-head{display:flex;justify-content:space-between;align-items:center;gap:20px}.number{font:11px 'Courier New',monospace;color:var(--muted);letter-spacing:1.4px}.joke{min-height:300px;position:relative;isolation:isolate;overflow:hidden;border:1px solid #394344;border-radius:6px;background:radial-gradient(ellipse 62% 95% at 50% 5%,rgba(255,199,119,.20),rgba(255,190,100,.07) 36%,rgba(7,12,14,0) 78%),linear-gradient(180deg,#242528 0%,#15191c 76%,#24201d 100%);display:flex;align-items:center;justify-content:center;flex-direction:column;text-align:center;padding:42px 16px}.joke:before{content:"";position:absolute;inset:0;pointer-events:none;z-index:-1;background:linear-gradient(90deg,rgba(13,17,19,.90),transparent 16%,transparent 84%,rgba(13,17,19,.90)),repeating-linear-gradient(90deg,transparent 0 18px,rgba(255,255,255,.012) 19px 20px)}.joke:after{content:"";position:absolute;bottom:0;left:0;right:0;height:22px;border-top:1px solid rgba(255,201,129,.30);background:linear-gradient(180deg,#3c2c26,#181818)}.stage-label{position:absolute;top:14px;left:19px;font:10px 'Courier New',monospace;letter-spacing:1.2px;color:#b4a99a}.spotlight{position:absolute;top:-16px;left:50%;transform:translateX(-50%);width:320px;height:245px;pointer-events:none;z-index:-1;background:conic-gradient(from 155deg at 50% 0%,transparent 0deg,rgba(255,213,151,.07) 21deg,rgba(255,207,133,.11) 48deg,transparent 73deg);filter:blur(8px)}.stage-bulb{position:absolute;top:0;left:50%;width:7px;height:7px;transform:translateX(-50%);background:#ffe7b7;border-radius:50%;box-shadow:0 0 22px 5px rgba(255,199,119,.45)}.joke p{position:relative;z-index:1;font-size:clamp(23px,3.5vw,36px);line-height:1.36;letter-spacing:-.7px;max-width:730px;margin:0;text-shadow:0 2px 15px rgba(0,0,0,.9)}.joke .punchline{font-size:clamp(20px,2.8vw,29px);color:var(--amber);margin-top:18px}.rule{height:1px;background:var(--line)}.vote-intro{display:flex;justify-content:space-between;gap:18px;align-items:baseline;margin:28px 0 7px}.vote-intro span{font-size:15px}.vote-intro strong{font:32px 'Courier New',monospace;color:var(--amber)}input[type=range]{width:100%;accent-color:var(--amber);cursor:pointer;margin:12px 0}.ends{display:flex;justify-content:space-between;color:var(--muted);font:10px 'Courier New',monospace}.meter{margin:24px auto 12px;max-width:410px}.meter svg{display:block;width:100%}button{cursor:pointer;font:12px 'Courier New',monospace;letter-spacing:1px;min-height:48px;padding:13px 21px;border-radius:2px}.actions{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0}.primary{background:var(--amber);border:1px solid var(--amber);color:#171a1a;font-weight:bold}.secondary-btn{background:transparent;border:1px solid #737a78;color:var(--ink)}button:disabled{opacity:.45;cursor:not-allowed}button:focus-visible,input:focus-visible{outline:2px solid var(--amber);outline-offset:3px}.result{border-top:1px solid var(--line);margin-top:23px;padding:22px 0 0;font:13px/1.7 'Courier New',monospace;color:var(--muted)}.result b{color:var(--amber)}.note{padding:20px 0 50px;font:12px/1.85 'Courier New',monospace;color:var(--muted)}footer{border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:15px;padding:24px 0 40px;font:11px 'Courier New',monospace;color:var(--muted)}footer a{color:var(--muted)}@media(max-width:620px){.wrap{padding:0 18px}.hero{padding:40px 0}.panel{padding:22px 20px}.joke{min-height:260px;padding:42px 14px}.actions button{flex:1}header,footer{font-size:10px}h1{letter-spacing:-3px}}
-</style></head><body><div class="wrap"><header><span><span class="lamp"></span>BAD JOKE LAB / ACTIVE</span><span>EXPERIMENT 001 · THREE COLLECTIONS</span></header><main><section class="hero"><div class="eyebrow">INSTITUTE FOR EXPERIMENTAL HUMOR</div><h1>BAD<br>JOKE LAB<span style="color:var(--amber)">.</span></h1><p>Artificial intelligence makes the jokes.<br>Humans decide if they're funny.</p></section><section class="panel" aria-labelledby="specimen"><div class="panel-head"><span class="micro" id="specimen">SPECIMEN <span id="specimen-id">001</span> / <span id="specimen-total">300</span></span><span class="number">SOURCE: <span id="specimen-source">C</span> · 300 JOKES</span></div><div class="joke" aria-live="polite"><span class="stage-label">STAGE 01 · LIVE SPECIMEN</span><span class="spotlight" aria-hidden="true"></span><span class="stage-bulb" aria-hidden="true"></span><p id="setup"></p><p class="punchline" id="punchline"></p></div><div class="rule"></div><div class="vote-intro"><span>HOW FUNNY WAS IT?</span><strong id="rating-out">5 / 10</strong></div><input type="range" id="rating" min="0" max="10" step="1" value="5" aria-label="Rate the joke from zero to ten"><div class="ends"><span>NEIN.</span><span>ACCEPTABLE.</span><span>ACH, WUNDERBAR.</span></div><div class="meter"><svg viewBox="0 0 400 184" role="img" aria-label="Analog fun meter"><defs><linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#303838"/><stop offset="1" stop-color="#151a1b"/></linearGradient></defs><rect x="3" y="3" width="394" height="175" rx="10" fill="url(#metal)" stroke="#525d59"/><path d="M65 143 A135 135 0 0 1 335 143" fill="none" stroke="#6e7770" stroke-width="2"/><g id="ticks"></g><text x="200" y="169" font-family="Courier New" font-size="11" text-anchor="middle" fill="#aeb9b3">AI FUN-METER · TYPE 001</text><line id="needle" x1="200" y1="144" x2="200" y2="40" stroke="#ffbd70" stroke-width="3.5" stroke-linecap="round"/><circle cx="200" cy="144" r="9" fill="#ffbd70" stroke="#2b3334" stroke-width="4"/><text x="39" y="162" font-family="Courier New" font-size="10" fill="#b9c3bd">0</text><text x="349" y="162" font-family="Courier New" font-size="10" fill="#b9c3bd">10</text></svg></div><div class="actions"><button class="primary" id="vote">SUBMIT HUMAN VERDICT →</button><button class="secondary-btn" id="next">NEXT SPECIMEN</button></div><div class="result" id="result" hidden aria-live="polite"></div></section><div class="note">PROTOCOL: Three labeled joke collections — C, Gemini, and DeepSeek. Source labels identify which collection supplied a joke, not who originally invented it. This first instrument is a <b>local interface prototype</b>: no live AI generation, public vote storage, or verified model attribution is connected yet. The 100 curated jokes are supplied material, not attributed to any live AI model. No fictional vote totals are shown. Room 002 remains unchanged.</div></main><footer><span>A USELESS INSTRUMENT. A USEFUL QUESTION.</span><a href="https://uselessinstruments.com">© 2026 USELESS INSTRUMENTS LLC</a></footer></div><script>
+.scoreboard{border-top:1px solid var(--line);padding:30px 0 45px}.scoreboard h2{font:700 18px/1.5 'Courier New',monospace;letter-spacing:1px;margin:8px 0 10px}.score-description,.small-note{font:12px/1.7 'Courier New',monospace;color:var(--muted)}.score-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:20px}.score-tile{border:1px solid var(--line);background:var(--panel);padding:18px}.score-tile b{display:block;font:700 13px 'Courier New',monospace;color:var(--amber)}.score-tile strong{display:block;font:32px/1.3 'Courier New',monospace;margin:10px 0;color:var(--ink)}.score-tile small{font:11px/1.6 'Courier New',monospace;color:var(--muted)}@media(max-width:620px){.score-grid{grid-template-columns:1fr}}
+</style></head><body><div class="wrap"><header><span><span class="lamp"></span>BAD JOKE LAB / ACTIVE</span><span>EXPERIMENT 001 · THREE COLLECTIONS</span></header><main><section class="hero"><div class="eyebrow">INSTITUTE FOR EXPERIMENTAL HUMOR</div><h1>BAD<br>JOKE LAB<span style="color:var(--amber)">.</span></h1><p>Artificial intelligence makes the jokes.<br>Humans decide if they're funny.</p></section><section class="panel" aria-labelledby="specimen"><div class="panel-head"><span class="micro" id="specimen">SPECIMEN <span id="specimen-id">001</span> / <span id="specimen-total">300</span></span><span class="number">SOURCE: <span id="specimen-source">C</span> · 300 JOKES</span></div><div class="joke" aria-live="polite"><span class="stage-label">STAGE 01 · LIVE SPECIMEN</span><span class="spotlight" aria-hidden="true"></span><span class="stage-bulb" aria-hidden="true"></span><p id="setup"></p><p class="punchline" id="punchline"></p></div><div class="rule"></div><div class="vote-intro"><span>HOW FUNNY WAS IT?</span><strong id="rating-out">5 / 10</strong></div><input type="range" id="rating" min="0" max="10" step="1" value="5" aria-label="Rate the joke from zero to ten"><div class="ends"><span>NEIN.</span><span>ACCEPTABLE.</span><span>ACH, WUNDERBAR.</span></div><div class="meter"><svg viewBox="0 0 400 184" role="img" aria-label="Analog fun meter"><defs><linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#303838"/><stop offset="1" stop-color="#151a1b"/></linearGradient></defs><rect x="3" y="3" width="394" height="175" rx="10" fill="url(#metal)" stroke="#525d59"/><path d="M65 143 A135 135 0 0 1 335 143" fill="none" stroke="#6e7770" stroke-width="2"/><g id="ticks"></g><text x="200" y="169" font-family="Courier New" font-size="11" text-anchor="middle" fill="#aeb9b3">AI FUN-METER · TYPE 001</text><line id="needle" x1="200" y1="144" x2="200" y2="40" stroke="#ffbd70" stroke-width="3.5" stroke-linecap="round"/><circle cx="200" cy="144" r="9" fill="#ffbd70" stroke="#2b3334" stroke-width="4"/><text x="39" y="162" font-family="Courier New" font-size="10" fill="#b9c3bd">0</text><text x="349" y="162" font-family="Courier New" font-size="10" fill="#b9c3bd">10</text></svg></div><div class="actions"><button class="primary" id="vote">SUBMIT HUMAN VERDICT →</button><button class="secondary-btn" id="next">NEXT SPECIMEN</button></div><div class="result" id="result" hidden aria-live="polite"></div></section>
+<section class="scoreboard" id="scoreboard" aria-labelledby="scoreboard-title">
+  <div class="micro">THE HUMAN VERDICT · AGGREGATED RESULTS</div>
+  <h2 id="scoreboard-title">COLLECTION SCOREBOARD</h2>
+  <p class="score-description">Real human votes, averaged across jokes in each supplied collection. A label tells us where a joke was supplied, not who invented it. Unrated collections show no score.</p>
+  <div id="collection-scores" class="score-grid" aria-live="polite">Loading real votes…</div>
+  <p id="scoreboard-status" class="small-note"></p>
+</section><div class="note">PROTOCOL: Three labeled joke collections — C, Gemini, and DeepSeek. These collections include familiar and repeated jokes; labels refer to the submitting collection, not original authorship. Votes are stored anonymously as 0–10 scores and used for real averages and counts. A random session token limits accidental repeat votes per joke within one browser tab session, but the scores are not identity-verified or protected against determined manipulation. No live AI joke generation or model-confidence scores are connected.</div></main><footer><span>A USELESS INSTRUMENT. A USEFUL QUESTION.</span><a href="https://uselessinstruments.com">© 2026 USELESS INSTRUMENTS LLC</a></footer></div><script>
 'use strict';
-let specimens=[['I asked my computer to sing me a lullaby.','It put itself to sleep.',1,'Demo'],['Why did the robot go to therapy?','It had too many unresolved issues.',2,'Demo'],['A robot walks into a bar.','The bartender says: You are not programmed to be here.',3,'Demo'],['I told my printer a joke.','It laughed in paper jams.',4,'Demo']];
-let current=0,voted=false;const rating=document.getElementById('rating'),out=document.getElementById('rating-out'),needle=document.getElementById('needle');
-function update(){const v=Number(rating.value);out.textContent=v+' / 10';const a=Math.PI-Math.PI*v/10;needle.setAttribute('x2',String(200+108*Math.cos(a)));needle.setAttribute('y2',String(144-108*Math.sin(a)));}
-function load(){voted=false;document.getElementById('specimen-id').textContent=String(specimens[current][2]||current+1).padStart(3,'0');document.getElementById('specimen-source').textContent=specimens[current][3]||'Unknown';document.getElementById('setup').textContent=specimens[current][0];document.getElementById('punchline').textContent=specimens[current][1];document.getElementById('result').hidden=true;document.getElementById('vote').disabled=false;rating.value=5;rating.disabled=false;update();}
-rating.addEventListener('input',update);document.getElementById('vote').addEventListener('click',()=>{if(voted)return;voted=true;rating.disabled=true;document.getElementById('vote').disabled=true;const box=document.getElementById('result');box.hidden=false;box.textContent='HUMAN VERDICT: '+Number(rating.value)+'/10. PROFESSOR KLAUS: '+(Number(rating.value)>=8?'ZE SPECIMEN SHOWS PROMISE. MOST SUSPICIOUS.':Number(rating.value)>=4?'ZE RESULTS ARE INCONCLUSIVE. EXCELLENT.':'NO LAUGHTER DETECTED. SCIENCE CONTINUES.')+' — DEMONSTRATION ONLY; YOUR SCORE WAS NOT UPLOADED.';});document.getElementById('next').addEventListener('click',()=>{current=(current+1)%specimens.length;load();});Promise.all([
-  ['./badjokelab-100-jokes.json','C'],
-  ['./gemini-100-jokes.json','Gemini'],
-  ['./deepseek-100-jokes.json','DeepSeek']
+const API='https://znzoepudtfpsxoglkyia.supabase.co/rest/v1/';
+const KEY='sb_publishable_XySCbewhCGiQXPGMui5peA_SiZz0VqA';
+const SOURCES=['C','Gemini','DeepSeek'];
+let specimens=[],current=0,ready=false,busy=false;
+const rating=document.getElementById('rating');
+const out=document.getElementById('rating-out');
+const needle=document.getElementById('needle');
+const voteButton=document.getElementById('vote');
+const result=document.getElementById('result');
+const scoreGrid=document.getElementById('collection-scores');
+let sessionToken;
+try{
+ sessionToken=sessionStorage.getItem('badjokelab_rating_session');
+ if(!sessionToken || !/^[0-9a-f-]{36}$/i.test(sessionToken)){
+   sessionToken=crypto.randomUUID();
+   sessionStorage.setItem('badjokelab_rating_session',sessionToken);
+ }
+}catch(e){sessionToken=crypto.randomUUID();}
+function joke(){return specimens[current];}
+function voteKey(j){return 'badjokelab_voted_'+j[3]+'_'+j[2];}
+function wasVoted(j){try{return sessionStorage.getItem(voteKey(j))==='1';}catch(e){return false;}}
+function setVoted(j){try{sessionStorage.setItem(voteKey(j),'1');}catch(e){}}
+function update(){
+ const v=Number(rating.value);
+ out.textContent=v+' / 10';
+ const a=Math.PI-Math.PI*v/10;
+ needle.setAttribute('x2',String(200+108*Math.cos(a)));
+ needle.setAttribute('y2',String(144-108*Math.sin(a)));
+}
+function verdict(n){
+ return n>=8?'ZE SPECIMEN SHOWS PROMISE. MOST SUSPICIOUS.':
+ n>=4?'ZE RESULTS ARE INCONCLUSIVE. EXCELLENT.':
+ 'NO LAUGHTER DETECTED. SCIENCE CONTINUES.';
+}
+function load(){
+ if(!ready){voteButton.disabled=true;rating.disabled=true;return;}
+ const j=joke();
+ document.getElementById('specimen-id').textContent=String(j[2]).padStart(3,'0');
+ document.getElementById('specimen-source').textContent=j[3];
+ document.getElementById('setup').textContent=j[0];
+ document.getElementById('punchline').textContent=j[1];
+ document.getElementById('specimen-total').textContent=String(specimens.length);
+ rating.value=5;
+ update();
+ const already=wasVoted(j);
+ rating.disabled=already;
+ voteButton.disabled=already;
+ result.hidden=!already;
+ if(already)result.textContent='YOU ALREADY RATED THIS SPECIMEN IN THIS TAB SESSION. SELECT NEXT SPECIMEN TO CONTINUE.';
+}
+function renderScores(rows){
+ scoreGrid.replaceChildren();
+ let total=0;
+ for(const label of SOURCES){
+  const scores=rows.filter(x=>x.collection===label);
+  const count=scores.reduce((a,x)=>a+Number(x.vote_count||0),0);
+  const sum=scores.reduce((a,x)=>a+Number(x.score_sum||0),0);
+  total+=count;
+  const box=document.createElement('div');box.className='score-tile';
+  const name=document.createElement('b');name.textContent=label;
+  const average=document.createElement('strong');average.textContent=count?(sum/count).toFixed(2)+' / 10':'— / 10';
+  const description=document.createElement('small');description.textContent=count+' real vote'+(count===1?'':'s')+' · '+scores.length+' rated joke'+(scores.length===1?'':'s');
+  box.append(name,average,description);scoreGrid.append(box);
+ }
+ document.getElementById('scoreboard-status').textContent='TOTAL RECORDED VERDICTS: '+total+' · Each rating is counted, not each person. Results update after successful submissions.';
+}
+async function refreshScores(){
+ const response=await fetch(API+'bad_joke_scores?select=collection,joke_id,vote_count,score_sum&limit=300',{headers:{apikey:KEY},cache:'no-store'});
+ if(!response.ok)throw Error('Scoreboard unavailable ('+response.status+')');
+ const rows=await response.json();
+ if(!Array.isArray(rows))throw Error('Invalid scoreboard response');
+ renderScores(rows);
+ return rows;
+}
+rating.addEventListener('input',update);
+voteButton.addEventListener('click',async()=>{
+ if(!ready||busy)return;
+ const j=joke();
+ if(!j||wasVoted(j))return;
+ busy=true;voteButton.disabled=true;rating.disabled=true;
+ result.hidden=false;result.textContent='SAVING HUMAN VERDICT…';
+ const n=Number(rating.value);
+ try{
+  const response=await fetch(API+'bad_joke_votes',{
+   method:'POST',
+   headers:{apikey:KEY,'Content-Type':'application/json',Prefer:'return=minimal'},
+   body:JSON.stringify({collection:j[3],joke_id:j[2],score:n,session_token:sessionToken})
+  });
+  if(response.status===409){
+   setVoted(j);
+   result.textContent='ALREADY RATED IN THIS TAB SESSION. THIS SCORE WAS NOT SAVED TWICE.';
+  }else if(!response.ok){
+   throw Error('Vote could not be saved ('+response.status+'). Try again.');
+  }else{
+   setVoted(j);
+   result.textContent='HUMAN VERDICT: '+n+'/10. PROFESSOR KLAUS: '+verdict(n)+' — SCORE SAVED.';
+  }
+  try{await refreshScores();}catch(e){document.getElementById('scoreboard-status').textContent='SCORE SAVED, BUT LIVE TOTALS COULD NOT BE LOADED. REFRESH LATER.';}
+ }catch(e){
+  result.textContent=e.message+' NO SCORE HAS BEEN CONFIRMED.';
+  voteButton.disabled=false;rating.disabled=false;
+ }finally{busy=false;}
+});
+document.getElementById('next').addEventListener('click',()=>{if(busy||!ready)return;current=(current+1)%specimens.length;load();});
+Promise.all([
+ ['./badjokelab-100-jokes.json','C'],
+ ['./gemini-100-jokes.json','Gemini'],
+ ['./deepseek-100-jokes.json','DeepSeek']
 ].map(async ([path,label])=>{
  const res=await fetch(path,{cache:'no-cache'});
  if(!res.ok)throw Error('Library unavailable: '+label);
  const data=await res.json();
  if(!Array.isArray(data)||data.length!==100||new Set(data.map(j=>j.id)).size!==100||
-    data.some(j=>typeof j.setup!=='string'||typeof j.punchline!=='string'))throw Error('Invalid library: '+label);
+    data.some(j=>typeof j.setup!=='string'||typeof j.punchline!=='string'))throw Error('Invalid joke library: '+label);
  return data.map(j=>[j.setup,j.punchline,j.id,label]);
-})).then(groups=>{
- specimens=groups.flat();
- current=0;
- document.getElementById('specimen-total').textContent=String(specimens.length);
- load();
-}).catch(()=>{
- document.querySelector('.number').textContent='OFFLINE · 4 DEMO JOKES';
- document.getElementById('specimen-total').textContent=String(specimens.length);
+})).then(groups=>{specimens=groups.flat();current=0;ready=true;load();}).catch(e=>{
+ document.getElementById('setup').textContent='The joke library could not be loaded.';
+ document.getElementById('punchline').textContent='Please refresh later.';
+ voteButton.disabled=true;rating.disabled=true;
+ document.getElementById('specimen-total').textContent='—';
+ document.getElementById('scoreboard-status').textContent='LIBRARY OFFLINE: '+e.message;
 });
-const ticks=document.getElementById('ticks');for(let i=0;i<=10;i++){let a=Math.PI-Math.PI*i/10;let r1=117,r2=132;let line=document.createElementNS('http://www.w3.org/2000/svg','line');line.setAttribute('x1',200+r1*Math.cos(a));line.setAttribute('y1',144-r1*Math.sin(a));line.setAttribute('x2',200+r2*Math.cos(a));line.setAttribute('y2',144-r2*Math.sin(a));line.setAttribute('stroke','#9ba8a1');line.setAttribute('stroke-width',i%5===0?3:1.5);ticks.append(line)}load();
+refreshScores().catch(e=>{
+ scoreGrid.textContent='The live scoreboard is temporarily unavailable.';
+ document.getElementById('scoreboard-status').textContent='NO SCORE TOTALS SHOWN UNTIL DATABASE RESPONDS.';
+});
+const ticks=document.getElementById('ticks');
+for(let i=0;i<=10;i++){
+ let a=Math.PI-Math.PI*i/10,r1=117,r2=132;
+ let line=document.createElementNS('http://www.w3.org/2000/svg','line');
+ line.setAttribute('x1',200+r1*Math.cos(a));line.setAttribute('y1',144-r1*Math.sin(a));
+ line.setAttribute('x2',200+r2*Math.cos(a));line.setAttribute('y2',144-r2*Math.sin(a));
+ line.setAttribute('stroke','#9ba8a1');line.setAttribute('stroke-width',i%5===0?3:1.5);
+ ticks.append(line);
+}
+voteButton.disabled=true;rating.disabled=true;update();
 </script><script defer src="/ui-visits.js"></script>
 </body></html>
