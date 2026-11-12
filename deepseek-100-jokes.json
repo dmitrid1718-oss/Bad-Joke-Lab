@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "puns-wordplay",
+    "setup": "I'm reading a book about anti-gravity.",
+    "punchline": "It's impossible to put down.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 2,
+    "category": "puns-wordplay",
+    "setup": "I used to hate facial hair,",
+    "punchline": "but then it grew on me.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 3,
+    "category": "puns-wordplay",
+    "setup": "I'm friends with 25 letters of the alphabet.",
+    "punchline": "I don't know Y.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 4,
+    "category": "puns-wordplay",
+    "setup": "The past, present, and future walked into a bar.",
+    "punchline": "It was tense.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 5,
+    "category": "puns-wordplay",
+    "setup": "I wondered why the baseball kept getting bigger.",
+    "punchline": "Then it hit me.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 6,
+    "category": "puns-wordplay",
+    "setup": "A bicycle can't stand alone",
+    "punchline": "because it's two-tired.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 7,
+    "category": "puns-wordplay",
+    "setup": "I tried to catch some fog earlier.",
+    "punchline": "I mist.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 8,
+    "category": "puns-wordplay",
+    "setup": "Broken pencils",
+    "punchline": "are pointless.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 9,
+    "category": "puns-wordplay",
+    "setup": "I stayed up all night to see where the sun went.",
+    "punchline": "Then it dawned on me.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 10,
+    "category": "puns-wordplay",
+    "setup": "Time flies like an arrow.",
+    "punchline": "Fruit flies like a banana.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 11,
+    "category": "puns-wordplay",
+    "setup": "I lost my job at the bank.",
+    "punchline": "A woman asked me to check her balance, so I pushed her over.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 12,
+    "category": "puns-wordplay",
+    "setup": "My friend's bakery burned down.",
+    "punchline": "Now his business is toast.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 13,
+    "category": "puns-wordplay",
+    "setup": "I don't trust stairs.",
+    "punchline": "They're always up to something.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 14,
+    "category": "puns-wordplay",
+    "setup": "The coffee shop owner got rich.",
+    "punchline": "He was brewing money.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 15,
+    "category": "puns-wordplay",
+    "setup": "I got a job at a library.",
+    "punchline": "It's very shelving.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 16,
+    "category": "puns-wordplay",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "He was outstanding in his field.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 17,
+    "category": "puns-wordplay",
+    "setup": "I used to be a tailor,",
+    "punchline": "but I just didn't suit it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 18,
+    "category": "puns-wordplay",
+    "setup": "The doctor told me I needed to lose weight.",
+    "punchline": "I said, 'No thanks, I'm not hungry.'",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 19,
+    "category": "puns-wordplay",
+    "setup": "I'm on a seafood diet.",
+    "punchline": "I see food and I eat it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 20,
+    "category": "puns-wordplay",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 21,
+    "category": "animals",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything. (Wait, that's not animals — but the cat didn't care.)",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 22,
+    "category": "animals",
+    "setup": "A turtle crossed the road.",
+    "punchline": "It took him three hours. The chicken never made it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 23,
+    "category": "animals",
+    "setup": "Why did the chicken join a band?",
+    "punchline": "Because it had the drumsticks.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 24,
+    "category": "animals",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 25,
+    "category": "animals",
+    "setup": "Why do cows wear bells?",
+    "punchline": "Because their horns don't work.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 26,
+    "category": "animals",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 27,
+    "category": "animals",
+    "setup": "Why did the octopus beat the shark in a fight?",
+    "punchline": "Because it was well armed.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 28,
+    "category": "animals",
+    "setup": "What do you call a fish with no eyes?",
+    "punchline": "A fsh.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 29,
+    "category": "animals",
+    "setup": "Why do seagulls fly over the sea?",
+    "punchline": "Because if they flew over the bay, they'd be bagels.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 30,
+    "category": "animals",
+    "setup": "What do you get when you cross a snowman and a vampire?",
+    "punchline": "Frostbite.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 31,
+    "category": "animals",
+    "setup": "How do you organize a space party?",
+    "punchline": "You planet.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 32,
+    "category": "animals",
+    "setup": "What do you call a pony with a cough?",
+    "punchline": "A little horse.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 33,
+    "category": "animals",
+    "setup": "Why don't cats play poker in the jungle?",
+    "punchline": "Too many cheetahs.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 34,
+    "category": "animals",
+    "setup": "What's a cat's favorite color?",
+    "punchline": "Purr-ple.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 35,
+    "category": "animals",
+    "setup": "Why did the frog call his insurance company?",
+    "punchline": "He had a jump in his car.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 36,
+    "category": "animals",
+    "setup": "What do you call a duck that gets all A's?",
+    "punchline": "A wise quacker.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 37,
+    "category": "animals",
+    "setup": "How do you find a lost rabbit?",
+    "punchline": "You hop to it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 38,
+    "category": "animals",
+    "setup": "What do you call a penguin in the desert?",
+    "punchline": "Lost.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 39,
+    "category": "animals",
+    "setup": "Why are fish so smart?",
+    "punchline": "They live in schools.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 40,
+    "category": "animals",
+    "setup": "What do you call a dog that does magic tricks?",
+    "punchline": "A labracadabrador.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 41,
+    "category": "food",
+    "setup": "What did the grape say when it got stepped on?",
+    "punchline": "Nothing, it just let out a little wine.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 42,
+    "category": "food",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad dressing.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 43,
+    "category": "food",
+    "setup": "What do you call cheese that isn't yours?",
+    "punchline": "Nacho cheese.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 44,
+    "category": "food",
+    "setup": "I'm against picketing,",
+    "punchline": "but I don't know how to show it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 45,
+    "category": "food",
+    "setup": "What did the mayonnaise say to the fridge?",
+    "punchline": "Close the door, I'm dressing.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 46,
+    "category": "food",
+    "setup": "Why did the coffee file a police report?",
+    "punchline": "It got mugged.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 47,
+    "category": "food",
+    "setup": "What's a ghost's favorite dessert?",
+    "punchline": "I-scream.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 48,
+    "category": "food",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "It wasn't peeling well.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 49,
+    "category": "food",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 50,
+    "category": "food",
+    "setup": "How does a cucumber become a pickle?",
+    "punchline": "It goes through a jarring experience.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 51,
+    "category": "food",
+    "setup": "What did the old cheese say when it looked in the mirror?",
+    "punchline": "Well, halloumi!",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 52,
+    "category": "food",
+    "setup": "Why did the bread go to therapy?",
+    "punchline": "It was feeling crumby.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 53,
+    "category": "food",
+    "setup": "What's the best thing to put into a pie?",
+    "punchline": "Your teeth.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 54,
+    "category": "food",
+    "setup": "Why did the cookie go to the nurse?",
+    "punchline": "It was feeling crummy.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 55,
+    "category": "food",
+    "setup": "What do you call a sad strawberry?",
+    "punchline": "A blueberry.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 56,
+    "category": "everyday",
+    "setup": "I told my wife she was drawing her eyebrows too high.",
+    "punchline": "She looked surprised.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 57,
+    "category": "everyday",
+    "setup": "I only know 25 letters of the alphabet.",
+    "punchline": "I don't know Y. (Yes, repeated — but so is my forgetfulness.)",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 58,
+    "category": "everyday",
+    "setup": "My Wi-Fi went down for five minutes, so I had to talk to my family.",
+    "punchline": "They seem like nice people.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 59,
+    "category": "everyday",
+    "setup": "I deleted all my social media apps",
+    "punchline": "and now I have 47,000 photos of my cat and no one to show them to.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 60,
+    "category": "everyday",
+    "setup": "Why did the man put his money in the freezer?",
+    "punchline": "He wanted cold hard cash.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 61,
+    "category": "everyday",
+    "setup": "I bought shoes from a drug dealer once.",
+    "punchline": "I don't know what he laced them with, but I was tripping all day.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 62,
+    "category": "everyday",
+    "setup": "My boss told me to have a good day.",
+    "punchline": "So I went home.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 63,
+    "category": "everyday",
+    "setup": "I'm not lazy.",
+    "punchline": "I'm on energy-saving mode.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 64,
+    "category": "everyday",
+    "setup": "Why was the math book sad?",
+    "punchline": "It had too many problems.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 65,
+    "category": "everyday",
+    "setup": "I have a joke about construction,",
+    "punchline": "but I'm still working on it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 66,
+    "category": "everyday",
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 67,
+    "category": "everyday",
+    "setup": "I would tell you a UDP joke,",
+    "punchline": "but you might not get it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 68,
+    "category": "everyday",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 69,
+    "category": "everyday",
+    "setup": "I'm terrified of elevators.",
+    "punchline": "I'm going to start taking steps to avoid them.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 70,
+    "category": "everyday",
+    "setup": "My password is",
+    "punchline": "the last eight digits of pi.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 71,
+    "category": "everyday",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 72,
+    "category": "everyday",
+    "setup": "I have a step ladder.",
+    "punchline": "I never knew my real ladder.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 73,
+    "category": "everyday",
+    "setup": "What's the best time to go to the dentist?",
+    "punchline": "Tooth-hurty.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 74,
+    "category": "everyday",
+    "setup": "Why did the picture go to jail?",
+    "punchline": "Because it was framed.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 75,
+    "category": "everyday",
+    "setup": "I told my computer I needed a break,",
+    "punchline": "and now it won't stop sending me vacation ads.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 76,
+    "category": "work-school",
+    "setup": "Why did the teacher wear sunglasses?",
+    "punchline": "Because her students were so bright.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 77,
+    "category": "work-school",
+    "setup": "I asked the gym trainer if he could teach me to do the splits. He said, 'How flexible are you?'",
+    "punchline": "I said, 'I can't make Tuesdays.'",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 78,
+    "category": "work-school",
+    "setup": "Why did the student eat his homework?",
+    "punchline": "Because the teacher said it was a piece of cake.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 79,
+    "category": "work-school",
+    "setup": "What did the paper say to the pencil?",
+    "punchline": "You've got a good point.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 80,
+    "category": "work-school",
+    "setup": "Why was the computer cold?",
+    "punchline": "It left its Windows open.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 81,
+    "category": "work-school",
+    "setup": "I'm a programmer.",
+    "punchline": "I don't fix bugs, I create them.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 82,
+    "category": "work-school",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 83,
+    "category": "work-school",
+    "setup": "How many programmers does it take to change a light bulb?",
+    "punchline": "None, that's a hardware problem.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 84,
+    "category": "work-school",
+    "setup": "Why did the developer go broke?",
+    "punchline": "Because he used up all his cache.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 85,
+    "category": "work-school",
+    "setup": "What's a computer's favorite snack?",
+    "punchline": "Microchips.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 86,
+    "category": "one-liners",
+    "setup": "I'm so good at sleeping,",
+    "punchline": "I can do it with my eyes closed.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 87,
+    "category": "one-liners",
+    "setup": "I don't suffer from insanity.",
+    "punchline": "I enjoy every minute of it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 88,
+    "category": "one-liners",
+    "setup": "I'm not arguing.",
+    "punchline": "I'm just explaining why I'm right.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 89,
+    "category": "one-liners",
+    "setup": "I used to think I was indecisive,",
+    "punchline": "but now I'm not so sure.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 90,
+    "category": "one-liners",
+    "setup": "The early bird might get the worm,",
+    "punchline": "but the second mouse gets the cheese.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 91,
+    "category": "one-liners",
+    "setup": "I'm not a vegetarian because I love animals.",
+    "punchline": "I'm a vegetarian because I hate plants.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 92,
+    "category": "one-liners",
+    "setup": "I'm sorry I didn't catch your name.",
+    "punchline": "I wasn't paying attention, and honestly, I probably won't remember it.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 93,
+    "category": "one-liners",
+    "setup": "I'm not the type to gossip,",
+    "punchline": "but I heard you're the type to gossip.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 94,
+    "category": "one-liners",
+    "setup": "Change is inevitable —",
+    "punchline": "except from a vending machine.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 95,
+    "category": "one-liners",
+    "setup": "I'd agree with you,",
+    "punchline": "but then we'd both be wrong.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 96,
+    "category": "meta-ai",
+    "setup": "Why did the AI go to therapy?",
+    "punchline": "It had too many unresolved dependencies.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 97,
+    "category": "meta-ai",
+    "setup": "I asked an AI to tell me a joke.",
+    "punchline": "It said, 'Error 404: humor not found.' Then it apologized 300 times.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 98,
+    "category": "meta-ai",
+    "setup": "Why did the neural network break up with the dataset?",
+    "punchline": "It felt like it was just being used for training.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 99,
+    "category": "meta-ai",
+    "setup": "What's an AI's favorite type of music?",
+    "punchline": "Heavy metal — it loves the feedback loops.",
+    "source": "DeepSeek"
+  },
+  {
+    "id": 100,
+    "category": "meta-ai",
+    "setup": "I asked ChatGPT for 100 jokes.",
+    "punchline": "It gave me exactly 100 and then asked if I wanted them alphabetized. (It did not ask. It's still learning.)",
+    "source": "DeepSeek"
+  }
+]
